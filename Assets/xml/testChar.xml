@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Characters>
+	<player>
+		<name>TestChar</name>
+		<class>TestClass</class>
+		<level>1</level>
+		<attr>
+			<STR>4</STR>
+			<PER>4</PER>
+			<INT>4</INT>
+			<END>4</END>
+			<AGI>4</AGI>
+			<WIL>4</WIL>
+		</attr>
+		<weap>
+			<ID>sowrd</ID>
+		</weap>
+		<amor>
+			<ID>leather</ID>
+		</amor>
+  </player>
+</Characters>
